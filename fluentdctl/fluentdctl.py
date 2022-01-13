@@ -1,4 +1,3 @@
-from posixpath import expanduser
 import fire
 import requests
 from enum import Enum
